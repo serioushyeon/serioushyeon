@@ -68,7 +68,7 @@ Here are some ideas to get you started:
       <a href="mailto:zz64446949@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
       </a>
-      <a href="https://www.instagram.com/serioushy">
+      <a href="https://www.instagram.com/serious_hy">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
       </a>
   </div><br>
