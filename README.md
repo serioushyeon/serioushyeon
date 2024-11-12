@@ -22,6 +22,10 @@ Here are some ideas to get you started:
   <br/>
   <br/>
 
+  [![rankit-badge](https://badge.rankit.run/badge?name=serioushyeon)](https://www.rankit.run)
+  <br/>
+  <br/>
+
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/{serioushyeon}"/>
   </a>
