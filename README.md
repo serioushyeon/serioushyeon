@@ -75,8 +75,10 @@ Here are some ideas to get you started:
   <br/>
 
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/{serioushyeon}"/>
+    <img src="https://render.gitanimals.org/farms/serioushyeon"/>
   </a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=serioushyeon&utm_content=farm">
+</a>
   <br/>
   <br/>
 </div>
