@@ -21,20 +21,10 @@ Here are some ideas to get you started:
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serioushyeon&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <br/>
-
-  [![rankit-badge](https://badge.rankit.run/badge?name=serioushyeon)](https://www.rankit.run)
-  <br/>
-  <br/>
-
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/{serioushyeon}"/>
-  </a>
-  <br/>
-  <br/>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fserioushyeon%2Fserioushyeon&count_bg=%23E10B88&title_bg=%232F2C2C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br>
-  ## 🔨 Once I've used 🔨
+  ## 🔨 Tech Stack 🔨
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- App -->
     <p><strong>App</strong></p>
@@ -81,4 +71,12 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
       </a>
   </div><br>
+    <br/>
+  <br/>
+
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/{serioushyeon}"/>
+  </a>
+  <br/>
+  <br/>
 </div>
