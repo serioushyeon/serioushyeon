@@ -1,7 +1,5 @@
-<div align="left">  
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serioushyeon&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
+<div align="left">
+  
   ## 🛠️ Tech Stack 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
@@ -11,7 +9,7 @@
   
   ## 🍥 Contribution
   - https://github.com/droidknights/DroidKnightsApp/pull/524
-  
+  - https://github.com/DroidKaigi/conference-app-2025/pull/372
   ## ☎️ Contact
   <div style="display:flex; flex-direction:row;">
       <a href="mailto:zz64446949@gmail.com">
